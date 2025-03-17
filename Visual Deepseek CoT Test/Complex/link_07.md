@@ -1,0 +1,1 @@
+也有可能涉及到Markdown渲染的问题。Obsidian使用Markdown，但标题中的字符通常原样显示。不过如果某些符号被Markdown解析器误解，可能导致显示异常。但“∞”和“°”都不是Markdown的语法字符，所以可能性较低。

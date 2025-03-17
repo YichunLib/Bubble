@@ -9,15 +9,15 @@
 		{"id":"2c447bb13488247a","type":"text","text":"多重授权","x":-100,"y":-560,"width":250,"height":60},
 		{"id":"a14297ba09512522","type":"text","text":"LGPL","x":-100,"y":-100,"width":250,"height":60},
 		{"id":"93bb14bf27d2805d","type":"text","text":"GPLv2","x":-100,"y":-40,"width":250,"height":60},
-		{"id":"c6fd6fb0dd30b44f","type":"text","text":"GPLv3","x":-100,"y":20,"width":250,"height":60},
 		{"id":"c41124933727f81e","type":"text","text":"AGPL","x":-100,"y":80,"width":250,"height":60},
+		{"id":"6d1db7217811867f","type":"text","text":"开源协议","x":-520,"y":80,"width":50,"height":144,"color":"3"},
 		{"id":"3a04073d2b26fbbe","type":"text","text":"GFDL","x":-100,"y":316,"width":250,"height":60},
 		{"id":"5c6cf088b6d42bc0","type":"text","text":"MPL","x":-100,"y":460,"width":250,"height":60},
 		{"id":"905d2d49c473b113","type":"text","text":"Apache","x":-100,"y":531,"width":250,"height":60},
 		{"id":"3dc7f8d9cb2cdde0","type":"text","text":"BSD","x":-100,"y":611,"width":250,"height":60},
 		{"id":"aaa42f96240fa5bb","type":"text","text":"MIT","x":-100,"y":691,"width":250,"height":60},
 		{"id":"7e764c10d656de25","type":"text","text":"Creative Common","x":-100,"y":240,"width":250,"height":60},
-		{"id":"6d1db7217811867f","type":"text","text":"开源协议","x":-520,"y":80,"width":50,"height":144,"color":"3"}
+		{"id":"c6fd6fb0dd30b44f","type":"text","text":"GPLv3","x":-100,"y":20,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"64411041bf40f423","fromNode":"6d1db7217811867f","fromSide":"right","toNode":"2c447bb13488247a","toSide":"left"},
